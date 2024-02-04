@@ -38,5 +38,7 @@ A partir deste ponto os comandos linux ficam funcionais podendo instalar pacotes
 
  Uma vez executado o make run , todos os programas serão compilados , bastando que na proxima vez execute
  	make run-only
+
+Obs: Este processo é bem demorado
   
 
