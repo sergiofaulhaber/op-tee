@@ -5,7 +5,7 @@
 	sudo apt-get update
  	sudo apt-get install qemu qemu-user-static binfmt-support docker.io
   	sudo apt-get install libglib2.0-dev libpixman-1-dev
-  	docker run -it arm64v8/ubuntu bash
+  	docker run -it --rm arm64v8/ubuntu bash
 
   # Para criar uma máquina arm com qemu e op-tee
 
