@@ -33,3 +33,10 @@ A partir deste ponto os comandos linux ficam funcionais podendo instalar pacotes
 	make toolchains
 	make run
 
+ Aparecerá 3 janelas no terminal uma com o prompt qemu onde digite "c" e <ENTER> para continuar o boot.
+ Uma janela é o modo seguro e a outra o mode inseguro.
+
+ Uma vez executado o make run , todos os programas serão compilados , bastando que na proxima vez execute
+ 	make run-only
+  
+
