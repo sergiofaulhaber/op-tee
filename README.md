@@ -9,8 +9,8 @@
 
   # Para criar uma máquina arm com qemu e op-tee
 
-	apt update && apt upgrade -y
-	apt install -y adb acpica-tools  autoconf automake bc \
+	sudo apt update && apt upgrade -y
+	sudo apt install -y adb acpica-tools  autoconf automake bc \
 	bison build-essential ccache cpio cscope curl device-tree-compiler \
 	e2tools expect fastboot flex ftp-upload gdisk git libattr1-dev \
 	libcap-ng-dev libfdt-dev libftdi-dev libglib2.0-dev libgmp3-dev \
